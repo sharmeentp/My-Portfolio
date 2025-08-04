@@ -1,0 +1,20 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+#home {
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  color: white;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
