@@ -28,7 +28,7 @@ js
 README.md
 
  Live Demo
-*(Add your Netlify or GitHub Pages link here once deployed)*
+( https://sharmeentp.github.io/My-Portfolio/)
 
  What I Learned:
 - Creating a responsive website using Bootstrap grid system.  
